@@ -1,4 +1,4 @@
-# Hi, I'm Leyla 👋  
+# Hi, I'm Leyla 🐨
 
 💻 Aspiring Software Developer  
 🧠 Algorithmic Thinking | System Programming  
